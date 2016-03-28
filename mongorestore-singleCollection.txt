@@ -1,0 +1,1 @@
+mongorestore --collection testing --db syracuse E:\data\syracuse\dump\testing.bson

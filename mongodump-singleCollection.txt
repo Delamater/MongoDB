@@ -1,0 +1,1 @@
+mongodump --db syracuse --collection testing --out e:\data\syracuse\dump
